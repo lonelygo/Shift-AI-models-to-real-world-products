@@ -60,17 +60,17 @@ https://www.zhihu.com/question/334397581/answer/748974753)。必须要说，对�
 
 ### [四、产品经理的工作挑战](/ch04_Product-Manager's-Challenge.md)
 
-### [五、产品/项目启动](/ch05_Project-or-Product-Setup.md)
+### [五、项目售前与解决方案](/ch05_Project-Consulting-and-Solutions.md)
 
-### [六、数据采集、标注与管理](/ch06_Data-Collection-Labeling-and-Management.md)
+### [六、产品/项目启动](/ch06_Project-or-Product-Setup.md)
 
-### [七、训练与调试](/ch07_Training-and-Debugging.md)
+### [七、数据采集、标注与管理](/ch07_Data-Collection-Labeling-and-Management.md)
 
-### [八、模型部署与测试](/ch08_Deployment-and-Testing.md)
+### [八、训练与调试](/ch08_Training-and-Debugging.md)
 
-### [九、机器学习的DevOps](/ch09_ML-DevOps.md)
+### [九、模型部署与测试](/ch09_Deployment-and-Testing.md)
 
-### [十、项目售前与解决方案](/ch10_Project-Consulting-and-Solutions.md)
+### [十、机器学习的DevOps](/ch10_ML-DevOps.md)
 
 ### [十一、项目交付](/ch11_Project-Delivery.md)
 
