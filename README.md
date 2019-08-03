@@ -1,5 +1,10 @@
 # Shift AI models to real world products
 
+![Ver 0.1](https://img.shields.io/badge/Version-0.1-orange)  
+
+In this repository, I will share some useful guides and references about how to shift AI models to real world products or projects.  
+
+
 Readme [中文](/README.md) | [English](/Translate/README_EN.md)
 
   > 欢迎协助完成英文版翻译工作。
