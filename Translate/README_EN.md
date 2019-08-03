@@ -1,9 +1,5 @@
 # Shift AI models to real world products
 
-Readme [中文](/README.md) | [English](/Translate/README_EN.md)
-
-  > 欢迎协助完成英文版翻译工作。
-
 ## 前言
 
 离开老东家快一年了，在半休息半工作的轻量负荷下，可以系统的做一些事情：1、把快给管理荒废了的撸码捡起来，补补DeVOps这条Pipline各种工具的功课，看看React，VUE，Flutter这些新东西；2、从数学到理论系统性的看看DL的东西；3、瞎琢磨。同时，在各路猎头的对接下，和一些国内AI领域的公司有过工作岗位的沟通与面试，基本上分为以下几类：  
@@ -70,6 +66,6 @@ https://www.zhihu.com/question/334397581/answer/748974753)。必须要说，对�
 
 ## License
 
-[![CC-BY-SA-4.0](https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen)](/LICENSE)
+[![CC-BY-SA-4.0](https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen)](/LICENSE.md)
 
 ## Acknowledgments
