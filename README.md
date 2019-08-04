@@ -51,9 +51,9 @@ https://www.zhihu.com/question/334397581/answer/748974753)。必须要说，对�
 
 ## 目录
 
-### [一、概述](/ch01_Overview.md) - *Draft Commit*
+### [一、概述](/ch01_Overview.md) - *Draft completed*
 
-### [二、机器学习项目过程](/ch02_Lifecycle-of-a-ML-Project.md)
+### [二、机器学习项目过程](/ch02_Lifecycle-of-a-ML-Project.md) - *Draft completed*
 
 ### [三、机器学习项目团队组成](/ch03_ML-Teams.md)
 
