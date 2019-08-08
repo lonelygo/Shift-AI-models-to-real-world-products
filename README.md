@@ -8,6 +8,8 @@ Readme [中文](/README.md) | [English](/Translate/README_EN.md)
 
   > 欢迎协助完成英文版翻译工作。
 
+  > 在[知乎专栏](https://zhuanlan.zhihu.com/c_137954846)同步更新，可根据需要选择阅读。
+
 ## 前言
 
 离开老东家快一年了，在半休息半工作的轻量负荷下，终于可以系统的做一点事情：1、把快给管理荒废了的撸码捡起来；2、补补DeVOps这条Pipeline各种工具生态发展；3、看看React，VUE，Flutter这些之前根本没有精力去看的东西；4、从数学到理论系统性的看看DL的东西；5、看心情，瞎琢磨。  
