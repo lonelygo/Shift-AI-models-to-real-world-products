@@ -1,12 +1,16 @@
 # 三、机器学习项目团队组成
 
-[3.机器学习项目团队组成 <--](/ch03_ML-Teams.md) | [--> 4.产品经理的工作挑战](/ch04_Product-Manager's-Challenge.md)
+[2.机器学习项目过程 <--](/ch02_Lifecycle-of-a-ML-Project.md) | [--> 4.产品经理的工作挑战](/ch04_Product-Manager's-Challenge.md)
 
 ## 为什么需要讨论这个问题
 
-机器学习已成为下一波技术红利的基础，这一点已有很大的共识。机器学习领域创业团队随着时间的推移与发展，已经逐步表现出对于现金流和利润的渴望，有强烈的参与到政企领域市场项目的动力与意愿，但很有可能乐观的认为：只需要再配备“产品经理、前端开发、后端开发和销售”就可以完成软件产品开发参与到政企市场的项目。  
+机器学习已成为下一波技术红利的基础，这一点已有很大的共识。机器学习领域创业团队随着时间的推移与发展，已经逐步表现出对于现金流和利润的渴望，有强烈参与到政企领域市场项目的动力与意愿，但或许会乐观的认为：只需要再配备“产品经理、前端开发、后端开发和销售”就可以完成软件产品开发，参与到政企市场的项目竞争。  
 
-机器学习由“**Technical**”向“**System**”转化过程中软件工程与技术层面存在的潜在问题，在 NIPS 2014 的《Machine Learning: The High Interest Credit Card of Technical Debt》文章中做了论述：“Machine learning offers a fantastically powerful toolkit for building complex systems quickly. This paper argues that it is dangerous to think of these quick wins as coming for free. Using the framework of technical debt, we note that it is remarkably easy to incur massive ongoing maintenance costs at the system level when applying machine learning. The goal of this paper is highlight several machine learning speciﬁc risk factors and design patterns to be avoided or refactored where possible. These include boundary erosion, entanglement, hidden feedback loops, undeclared consumers, data dependencies, changes in the external world, and a variety of system-level anti-patterns.” -- （Reference：Machine Learning: The High Interest Credit Card of Technical Debt）  
+机器学习由“**Technical**”向“**System**”转化过程中软件工程与技术层面存在的潜在问题，在 NIPS 2014 的《Machine Learning: The High Interest Credit Card of Technical Debt》文章中做了论述：  
+
+>“Machine learning offers a fantastically powerful toolkit for building complex systems quickly. This paper argues that it is dangerous to think of these quick wins as coming for free. Using the framework of technical debt, we note that it is remarkably easy to incur massive ongoing maintenance costs at the system level when applying machine learning. The goal of this paper is highlight several machine learning speciﬁc risk factors and design patterns to be avoided or refactored where possible. These include boundary erosion, entanglement, hidden feedback loops, undeclared consumers, data dependencies, changes in the external world, and a variety of system-level anti-patterns.”  
+
+>-- （Reference：Machine Learning: The High Interest Credit Card of Technical Debt）  
 
 ![ch03-01](res/ch03/ch03-01.jpg)
 
@@ -90,11 +94,11 @@
 
 7 - 需求团队与架构团队共同讨论确定三件大事：产品基础/通用/支撑功能，产品特性功能，项目功能，基于这种认识开始架构层面设计与技术路线选择（强调一下，项目是有时间限制的，不能为了追求“理想”忽略了进度。）；
 
-8 - 研发团队快速完成在 master（Dev）分支完成第一部分基础和通用功能开发；然后分支出“pd-XX”进行项目所需的产品特性功能开发，测试合并入 master 后；分支出“pj-XX”进行项目功能的开发。在项目开发未完成前，产品分支的开发依然是服务于项目的，以便快速合并；
+8 - 研发团队快速完成在 master（Dev）分支完成第一部分基础和通用功能开发；然后分支出“pd-xx”进行项目所需的产品特性功能开发，测试合并入 master 后；分支出“pj-xx”进行项目功能的开发。在项目开发未完成前，产品分支的开发依然是服务于项目的，以便快速合并；
 
 9 - 事实上，单一客户的需求必然有一定片面性与局限性，在做项目开发同时，需求团队需要进一步研究行业需求，快速对产品部分的需求做出更新与完善；
 
-10 - 理想状态下，项目交付后，在我们的版本控制系统里就有一个完整的项目版本和一个基本成熟的产品版本，这样就实现了**_以项目养产品_**，同时最大限度的降低了研发周期与成本。  
+10 - 理想状态下，项目交付后，在我们的版本控制系统里就有一个完整的项目版本和一个基本成熟的产品版本，这样就实现了 **_以项目养产品_**，同时最大限度的降低了研发周期与成本。  
 
 不要以为下周回国的贾老板是 PPT 造车高手，政企领域大玩家都是 PPT 做产品高手。看到没有，“先有鸡还是先有蛋”的问题，可以解决为“鸡和蛋”一起有。  
 
@@ -267,4 +271,4 @@ DevOps 的理念已经得到了广泛的认同与实践，相关工具链从开�
 - 项目需求调研报告
 - 项目交付、验收
 
-[3.机器学习项目团队组成 <--](/ch03_ML-Teams.md) | [--> 4.产品经理的工作挑战](/ch04_Product-Manager's-Challenge.md)
+[2.机器学习项目过程 <--](/ch02_Lifecycle-of-a-ML-Project.md) | [--> 4.产品经理的工作挑战](/ch04_Product-Manager's-Challenge.md)
