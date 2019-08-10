@@ -12,7 +12,7 @@
 
 * [三、机器学习项目团队组成](/chapter-03/ch03_ML-Teams.md)
 
-* [四、产品经理的工作挑战](/chapter-04/ch04_Product-Manager's-Challenge.md)
+* [四、产品经理的工作挑战](/chapter-04/ch04_Product-Manager-Challenge.md)
 
 * [五、项目售前与解决方案](/chapter-05/ch05_Project-Consulting-and-Solutions.md)
 
