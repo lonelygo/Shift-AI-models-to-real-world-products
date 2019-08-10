@@ -10,7 +10,7 @@ Readme [中文](/README.md) | [English](/Translate/README_EN.md)
 
 > [GitBook](https://kevindi.gitbook.io/shift-ai-models-to-real-world-products/)提供了更好的阅读体验。
 
-> 在[知乎专栏](https://zhuanlan.zhihu.com/c_137954846)同步更新，可根据需要选择阅读。
+> 在[知乎专栏](https://zhuanlan.zhihu.com/c_137954846)同步更新。
 
 ## 前言
 
