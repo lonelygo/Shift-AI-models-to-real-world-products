@@ -1,6 +1,6 @@
 # 三、机器学习项目团队组成
 
-[2.机器学习项目过程 <--](/ch02_Lifecycle-of-a-ML-Project.md) | [--> 4.产品经理的工作挑战](/ch04_Product-Manager's-Challenge.md)
+[2.机器学习项目过程 <--](/chapter-02/ch02_Lifecycle-of-a-ML-Project.md) | [--> 4.产品经理的工作挑战](/chapter-04/ch04_Product-Manager-Challenge.md)
 
 ## 为什么需要讨论这个问题
 
@@ -12,11 +12,11 @@
 
 >-- （Reference：Machine Learning: The High Interest Credit Card of Technical Debt）  
 
-![ch03-01](res/ch03/ch03-01.jpg)
+![ch03-01](/res/ch03/ch03-01.jpg)
 
 在 NIPS 2015 的《Hidden Technical Debt in Machine Learning Systems》论文中，对此问题进行了进一步讨论。  
 
-![ch03-02](res/ch03/ch03-02.jpg)
+![ch03-02](/res/ch03/ch03-02.jpg)
 
 在上述文章中有一张配图，能更直观的让我们感受到**Technical**与**System**之间的巨大差异。  
 
@@ -72,7 +72,7 @@
 - 项目解决方案
 - 产品开发交付
 
-有关产品经理的工作难度与挑战，在[第四章](/ch04_Product-Manager's-Challenge.md)进一步详细说明。  
+有关产品经理的工作难度与挑战，在[第四章](/chapter-04/ch04_Product-Manager-Challenge.md)进一步详细说明。  
 
 ### 2. Project Manager
 
@@ -119,7 +119,7 @@
 - 项目文档
 - 项目交付
 
-有关项目经理的工作内容与产品相关的，在[第四章](/ch04_Product-Manager's-Challenge.md)进一步详细说明；与项目管理相关的在[第十一章](/ch11_Project-Delivery.md)说明。  
+有关项目经理的工作内容与产品相关的，在[第四章](/chapter-04/ch04_Product-Manager-Challenge.md)进一步详细说明；与项目管理相关的在[第十一章](/chapter-11/ch11_Project-Delivery.md)说明。  
 
 ### 3. Business Consultant
 
@@ -242,7 +242,7 @@ DevOps 的理念已经得到了广泛的认同与实践，相关工具链从开�
 
 如之前所述，在传统的软件交付领域有**三分软件，七分实施**这种“共识”，交付环节对于软件项目来说，是非常、非常、非常重要的，千万不可轻视。这项工作，绝非**_安排一个项目经理，带上几个刚毕业愿意出差、能吃苦的小孩_**就可以顺利完成的，再考虑到深度学习部分带来的项目技术概念复杂性、结果不可预测性、不可解释性，会使得项目交付工作更加艰难，更需要有专业化的团队去完成交付工作。  
 
-机器学习项目的落地交付环节，是在项目经理的带领下，由一批具有各种不同技能与能力的交付工程师组成团队，完成项目交付与实施工作。有关项目交付的更详细的说明，在[第十一章](/ch11_Project-Delivery.md)。在这里先简单说明一下交付团队集体所需要具备的专业知识与技能组合：  
+机器学习项目的落地交付环节，是在项目经理的带领下，由一批具有各种不同技能与能力的交付工程师组成团队，完成项目交付与实施工作。有关项目交付的更详细的说明，在[第十一章](/chapter-11/ch11_Project-Delivery.md)。在这里先简单说明一下交付团队集体所需要具备的专业知识与技能组合：  
 
 - 沟通、协调与项目管理能力与情商
 - 行业理解、流程认知与行业专属名词熟知程度
@@ -271,4 +271,4 @@ DevOps 的理念已经得到了广泛的认同与实践，相关工具链从开�
 - 项目需求调研报告
 - 项目交付、验收
 
-[2.机器学习项目过程 <--](/ch02_Lifecycle-of-a-ML-Project.md) | [--> 4.产品经理的工作挑战](/ch04_Product-Manager's-Challenge.md)
+[2.机器学习项目过程 <--](/chapter-02/ch02_Lifecycle-of-a-ML-Project.md) | [--> 4.产品经理的工作挑战](/chapter-04/ch04_Product-Manager-Challenge.md)
