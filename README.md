@@ -8,7 +8,7 @@ Readme [中文](/README.md) | [English](/Translate/README_EN.md)
 
 > 欢迎协助完成英文版翻译工作。
 
-> [GitBook](https://kevindi.gitbook.io/shift-ai-models-to-real-world-products/)提供了更好的阅读体验。
+> [GitBook](https://lonelygo.gitbook.io/shift-ai-models-to-real-world-products/)提供了更好的阅读体验。
 
 > 在[知乎专栏](https://zhuanlan.zhihu.com/c_137954846)同步更新。
 
