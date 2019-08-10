@@ -1,0 +1,17 @@
+{
+    "title": "Shift AI models to real-world products",
+    "description": "In this book, I will share some useful guides and references about how to shift AI models to real world products or projects.",
+    "author": "Kevin Di",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "https://lonelygo.github.io/"
+        }
+    }
+}
