@@ -1,6 +1,6 @@
 # Shift AI models to real world products
 
-![Ver 0.1](https://img.shields.io/badge/Version-0.1-orange)  ![Gitbook](https://img.shields.io/badge/GitBook-0.1-brightgreen)
+![Ver 0.1](https://img.shields.io/badge/Version-0.3-orange)  ![Gitbook](https://img.shields.io/badge/GitBook-0.3-brightgreen)
 
 In this repository, I will share some useful guides and references about how to shift AI models to real world products or projects.
 
