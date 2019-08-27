@@ -62,7 +62,7 @@ Readme [中文](/README.md) | [English](/Translate/README_EN.md)
 
 ### [四、产品经理的工作挑战](/chapter-04/ch04_Product-Manager-Challenge.md) - _Draft completed_
 
-### [五、项目售前与解决方案](/chapter-05/ch05_Project-Consulting-and-Solutions.md)
+### [五、项目售前与解决方案](/chapter-05/ch05_Project-Consulting-and-Solutions.md) - _Draft_
 
 ### [六、产品/项目启动](/chapter-06/ch06_Project-or-Product-Setup.md)
 
