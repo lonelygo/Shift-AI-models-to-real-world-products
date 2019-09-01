@@ -13,5 +13,12 @@
         "sidebar": {
             "Home": "https://lonelygo.github.io/"
         }
-    }
+    },
+    "plugins": [
+        "back-to-top-button",
+        "code",
+        "splitter",
+        "pageview-count",
+        "chapter-fold"
+    ]
 }
